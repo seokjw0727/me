@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=About%20Me!&fontSize=35)
+![header](https://capsule-render.vercel.app/api?type=waving&color=blue&height=150&section=header&text=About%20Me!&fontSize=35)
 
 ### 💻 Languages
 
@@ -21,4 +21,4 @@ I'm looking for a job...
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seokjw0727)](https://github.com/seojw0727/github-readme-stats)
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=175&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=blue&height=175&section=footer)
