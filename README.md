@@ -1,9 +1,7 @@
 # 🪄Magic Coach🔮, 매코
 
 - 前 Crew Zest 개발자
-- 지식인 영웅
-
-
+- 現 백수
 
 ## 💭 | DM
 
